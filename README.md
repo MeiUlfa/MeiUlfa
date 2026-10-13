@@ -1,13 +1,13 @@
 <div align="center">
   <div style="display: inline-flex; align-items: center; gap: 8px;">
-    <img src="assets/ow.gif" width="320"/>
+    <img src="assets/mu.gif" width="320"/>
   </div>
 </div>
 
-<h1 align="center">Ssup 👋</h1>
+<h1 align="center">𝖦𝗋𝖾𝖾𝗍𝗂𝗇𝗀𝗌 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&pause=1000&color=9CAF88&center=true&vCenter=true&width=440&lines=Welcome+to+my+Github+profile+✦;Know+me+as+Mey+(•_-);Let's+link+up!+🍣(๑ᵔ⤙ᵔ๑🥢)"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&pause=1000&color=8B5E3C&center=true&vCenter=true&width=440&lines=Oops+committed+again+✦;Hiii,+Mey+here!+(•_-);Let's+link+up!+🍣(๑ᵔ⤙ᵔ๑🥢)" />
 </p>
 
 <!--
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
