@@ -1,13 +1,13 @@
 <div align="center">
   <div style="display: inline-flex; align-items: center; gap: 8px;">
-    <img src="assets/ak.gif" width="320"/>
+    <img src="assets/himuro.gif" width="320"/>
   </div>
 </div>
 
-<h1 align="center">𝖦𝗋𝖾𝖾𝗍𝗂𝗇𝗀𝗌 👋</h1>
+<h1 align="center">ようこそ! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&pause=1000&color=87CEFA&center=true&vCenter=true&width=440&lines=Oops+committed+again+✦;Hiii,+Mey+here!+(•_-);Let's+link+up!+🍣(๑ᵔ⤙ᵔ๑🥢)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&pause=1000&color=A7C7E7&center=true&vCenter=true&width=440&lines=Oops,+committed+again+✦;Hiii,+Mey+here!+(•_-);Let's+link+up!+🍣(๑ᵔ⤙ᵔ๑🥢)" />
 </p>
 
 <!--
